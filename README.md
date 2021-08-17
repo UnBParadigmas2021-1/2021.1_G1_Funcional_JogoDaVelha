@@ -8,7 +8,7 @@
 |Matrícula | Aluno |
 | -- | -- |
 | 17/0039668  |  Lucas Ganda Carvalho |
-| xx/xxxxxx  |  xxxx xxxx xxxxx |
+| 17/0047326  |  Wictor Bastos Girardi |
 
 ## Sobre 
 O projeto consiste basicamente de um jogo da velha com uma interface grafica simples
