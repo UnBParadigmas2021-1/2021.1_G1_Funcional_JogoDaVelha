@@ -8,6 +8,7 @@
 |Matrícula | Aluno |
 | -- | -- |
 | 17/0039668  |  Lucas Ganda Carvalho |
+| 15/0062567  |  Marcos Adriano Nery de Abrantes |
 | 17/0047326  |  Wictor Bastos Girardi |
 
 ## Sobre 
