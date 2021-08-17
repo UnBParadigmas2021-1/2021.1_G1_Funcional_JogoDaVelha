@@ -27,6 +27,7 @@ O projeto consiste basicamente de um jogo da velha com uma interface grafica sim
 
 * Para rodar o projeto, e necessario ter o `stack` instalado,  o tutorial de instalacao pode ser encontrado [aqui](https://docs.haskellstack.org/en/stable/install_and_upgrade/)
 * Caso ocorra problema na execucao do projeto mesmo com o stack instalado, possivel e um erro envolvendo o `OpenGL\GLUT`, sendo necessario portanto uma instalacao manual do mesmo, algo relativamente simples
+* O primeiro build do projeto pode ser um pouco demorado, pois precisa instalar todas as dependências do OpenGL
 ## Uso 
 
 * Dependencias
