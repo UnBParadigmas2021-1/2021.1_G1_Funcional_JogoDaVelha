@@ -10,12 +10,15 @@
 | 17/0039668  |  Lucas Ganda Carvalho |
 | 15/0062567  |  Marcos Adriano Nery de Abrantes |
 | 17/0047326  |  Wictor Bastos Girardi |
+| 18/0028324  |  Thiago Luiz de Souza Gomes |
 
 ## Sobre 
 O projeto consiste basicamente de um jogo da velha com uma interface grafica simples
 
 ## Screenshots
-Adicione 2 ou mais screenshots do projeto em termos de interface e/ou funcionamento.
+![screenshot1](screenshots/image1.png)
+![screenshot2](screenshots/image2.png)
+![screenshot3](screenshots/image3.png)
 
 ## Instalação 
 **Linguagens**: Haskell<br>
@@ -35,14 +38,16 @@ Adicione 2 ou mais screenshots do projeto em termos de interface e/ou funcioname
 * Buildar o projeto 
 > Digite no Terminal `stack build`
 
+* Em caso de erro com a biblioteca OpenGL 
+> Digite no Terminal `sudo apt-get install freeglut3 freeglut3-dev`
+> Digite no Terminal `stack build`
+
+
 * Rode o projeto
 > Digite no Terminal `stack exec trabalho-funcional`
 
 ## Vídeo
-Adicione 1 ou mais vídeos com a execução do projeto.
-
-## Outros 
-Quaisquer outras informações sobre seu projeto podem ser descritas a seguir.
+Apresentação [aqui](video/apresentacao.mp4)
 
 ## Fontes
-Caso utilize materiais de terceiros, referencie-os adequadamente.
+* Instalação do OpenGL [aqui](https://stackoverflow.com/questions/28518168/missing-c-library-gl-when-installing-gloss-specifically-the-openglraw-depe)
