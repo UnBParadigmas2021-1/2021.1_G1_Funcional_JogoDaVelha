@@ -26,6 +26,9 @@ Adicione 2 ou mais screenshots do projeto em termos de interface e/ou funcioname
 * Caso ocorra problema na execucao do projeto mesmo com o stack instalado, possivel e um erro envolvendo o `OpenGL\GLUT`, sendo necessario portanto uma instalacao manual do mesmo, algo relativamente simples
 ## Uso 
 
+* Dependencias
+> sudo apt install haskell-stack
+
 * Entrar na pasta do projeto 
 
 * Buildar o projeto 
