@@ -28,6 +28,7 @@ Adicione 2 ou mais screenshots do projeto em termos de interface e/ou funcioname
 
 * Dependencias
 > sudo apt install haskell-stack
+> stack upgrade --binary-only
 
 * Entrar na pasta do projeto 
 
