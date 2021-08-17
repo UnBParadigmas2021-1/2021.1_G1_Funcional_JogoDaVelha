@@ -47,7 +47,7 @@ O projeto consiste basicamente de um jogo da velha com uma interface grafica sim
 > Digite no Terminal `stack exec trabalho-funcional`
 
 ## Vídeo
-Apresentação [aqui](video/apresentacao.mp4)
+Apresentação [aqui](https://github.com/UnBParadigmas2021-1/2021.1_G1_Funcional_JogoDaVelha/tree/master/video)
 
 ## Fontes
 * Instalação do OpenGL [aqui](https://stackoverflow.com/questions/28518168/missing-c-library-gl-when-installing-gloss-specifically-the-openglraw-depe)
