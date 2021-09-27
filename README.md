@@ -13,7 +13,7 @@
 | 18/0028324  |  Thiago Luiz de Souza Gomes |
 
 ## Sobre 
-O projeto consiste basicamente de um jogo da velha com uma interface grafica simples
+O trabalho do grupo consiste na execução do projeto [profun](https://github.com/tsoding/profun/tree/master/functional) do usuário [tsoding](https://github.com/tsoding) que é basicamente um jogo da velha com uma interface grafica simples
 
 ## Screenshots
 ![screenshot1](screenshots/image1.png)
@@ -51,4 +51,5 @@ O projeto consiste basicamente de um jogo da velha com uma interface grafica sim
 Apresentação [aqui](https://github.com/UnBParadigmas2021-1/2021.1_G1_Funcional_JogoDaVelha/tree/master/video)
 
 ## Fontes
-* Instalação do OpenGL [aqui](https://stackoverflow.com/questions/28518168/missing-c-library-gl-when-installing-gloss-specifically-the-openglraw-depe)
+* [Trabalho usado para execução](https://github.com/tsoding/profun/tree/master/functional)
+* [Instalação do OpenGL](https://stackoverflow.com/questions/28518168/missing-c-library-gl-when-installing-gloss-specifically-the-openglraw-depe)
